@@ -3,7 +3,9 @@ import './header.css'
 function Header() {
   return (
     <div className="main">
-        <text>hello123</text>
+        <h1>welcome to over site </h1>
+        <h2>my name</h2>
+        <h2>husain</h2>
     </div>
   )
 }
