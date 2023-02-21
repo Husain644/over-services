@@ -10,7 +10,16 @@ function Header() {
         <div className="items"><img className="myimg" alt="nofound"  src={ require('../assets/images/mypic.jpg') } /></div>
         <div className="items"><img className="myimg" alt="nofound" src={ require('../assets/images/mypic.jpg') } /></div>
         <div className="items"><img className="myimg" alt="nofound"  src={ require('../assets/images/mypic.jpg') } /></div>
-
+        <div className="items"><img className="myimg" alt="nofound" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" alt="nofound"  src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" alt="nofound" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" alt="nofound"  src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" alt="nofound" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" alt="nofound" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" alt="nofound"  src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" alt="nofound" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" alt="nofound"  src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" alt="nofound" src={ require('../assets/images/mypic.jpg') } /></div>
     </div></scrollView>
   )
 }
