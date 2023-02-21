@@ -1,12 +1,65 @@
 import React from 'react'
 import './header.css'
 function Header() {
-  return (
-    <div className="main">
-        <h1>welcome to over site </h1>
-        <h2>my name</h2>
-        <h2>husain</h2>
-    </div>
+  return (<scrollView>
+
+    <div className="container">
+        <div className="items"><img className="myimg"  src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"><img className="myimg" src={ require('../assets/images/mypic.jpg') } /></div>
+        <div className="items"></div>
+    </div></scrollView>
   )
 }
 
